@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Useful Math Tools mark</title>
+  <rect width="64" height="64" rx="15" fill="#087f72"/>
+  <path d="M18 14v18M9 23h18" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M38 39h17M38 50h17" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+</svg>
+
